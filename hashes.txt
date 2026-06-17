@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Lágrimas en tu piel
+
+This log tracks the cryptographic history and versioning for the song **Lágrimas en tu piel** (lagrimas-en-tu-piel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T05:52:01.903734 | `v1` | `9ce772daae831d8b7f1a0cb61b055f61963e0afab2d7adbe3746754cfd21a089` | `d29e6f740e09a48a6e04894e0f85c9af0c72a25a68a352790c7d1bcddd6394d8` | `2026-06-18_lagrimas-en-tu-piel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

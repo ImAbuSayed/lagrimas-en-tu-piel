@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lagrimas-en-tu-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Lágrimas en tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lagrimas-en-tu-piel/) |
+| **Get License** | [Get License For Lágrimas en tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lagrimas-en-tu-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9ce772daae831d8b7f1a0cb61b055f61963e0afab2d7adbe3746754cfd21a089` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

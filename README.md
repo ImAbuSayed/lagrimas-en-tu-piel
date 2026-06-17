@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lagrimas-en-tu-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Lágrimas en tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lagrimas-en-tu-piel/) |
+| **Get License** | [License this song: Lágrimas en tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lagrimas-en-tu-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Brillan las luces en la oscuridad, mi nena
+> Secando lágrimas en tu piel, la noche quema
+> Esta noche en Madrid somos solo tú y yo
+> Quemando la calle con el fuego que nos dio
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
